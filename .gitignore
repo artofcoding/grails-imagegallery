@@ -1,0 +1,11 @@
+.DS_Store
+*.class
+*.log
+devDb*
+target/
+temp/
+lib/mysql*
+src/templates/artifacts
+src/templates/scaffolding
+src/templates/testing
+web-app/js/jquery.fancybox-1.3.4
